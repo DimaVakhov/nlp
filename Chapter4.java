@@ -64,7 +64,7 @@ public class Chapter4 {
 
     // Метод для получения директории с моделями
     public static File getModelDir() {
-        return new File("/home/alexandr/Lang/apache-opennlp-2.5.0/bin");
+        return new File("/home/share/4.142.2.23/openNLPModels");
     }
 
     // Подпрограмма для работы с регулярными выражениями
