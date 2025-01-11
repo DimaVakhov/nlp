@@ -1,3 +1,9 @@
+import UsingRegularExpressions;
+import UsingBreakIterator;
+import UsingOpenNLP;
+import UsingStanfordPipeline;
+import UseLingPipeExamples;
+
 public class Chapter3 {
     public static void main(String[] args) {
         String paragraph = "Here is an example paragraph that will be processed.";
