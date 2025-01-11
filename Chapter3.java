@@ -1,8 +1,8 @@
-import nlp.examples.UsingRegularExpressions;
-import nlp.examples.UsingBreakIterator;
-import nlp.examples.UsingOpenNLP;
-import nlp.examples.UsingStanfordPipeline;
-import nlp.examples.UseLingPipeExamples;
+import UsingRegularExpressions;
+import UsingBreakIterator;
+import UsingOpenNLP;
+import UsingStanfordPipeline;
+import UseLingPipeExamples;
 
 public class Chapter3 {
     public static void main(String[] args) {
